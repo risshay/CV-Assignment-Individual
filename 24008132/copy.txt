@@ -1,0 +1,14 @@
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    It all began with a simple love for coffee — not just drinking it, but understanding it. What makes one cup comforting and another unforgettable? That curiosity turned into a hobby, and over time, that hobby turned into something much bigger: a small café, built from scratch with passion and persistence.
+  </p>
+  <p>
+    Every day since has been a learning experience. From figuring out how to steam milk just right, to managing supplies, designing menus, handling customers, and even scrubbing floors after closing — it’s all part of the journey. Running a café isn’t glamorous, but it’s real. It’s hands-on, it’s tiring, and it’s incredibly fulfilling.
+  </p>
+  <p>
+    Beyond the coffee, there's a deeper reason behind everything I do — the joy of creating a space where people feel comfortable, welcome, and seen. A place that feels familiar, even on your first visit. Whether it's a regular who orders the same thing every morning, or someone discovering their new favorite drink, those small connections matter.
+  </p>
+  <p>
+    This site is more than just a portfolio — it's a reflection of that journey. A glimpse into the hustle behind the scenes, the lessons learned (often the hard way), and the ongoing dream of turning a passion into something that leaves a mark. I enjoy exploring web design, branding, and entrepreneurship. My goal is not just to serve coffee, but to build a brand and experience people remember. So if you’ve found yourself here, welcome — and I hope something here inspires you to keep building what you love, one small step at a time.
+  </p>
