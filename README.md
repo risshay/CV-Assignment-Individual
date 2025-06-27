@@ -1,2 +1,2 @@
-# CV-Assignment-Individual
+# Assignment-Individual
 Individual Assignment (TFB1063)
